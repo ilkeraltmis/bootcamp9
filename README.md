@@ -57,7 +57,16 @@ https://trello.com/b/VXBALdxs/bootcamp
 
 Story'ler yapılacak işlere (task'lere) bölünmüştür. Trelloda gözüken başlıklarda detaylı içerikler mevcut olacaktır.
 
-- **Daily Scrum**: Daily Scrum toplantılarının zamansal sebeplerden ötürü Vatsapp üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır: [Sprint 1 Daily Scrum Chats]
+- **Daily Scrum**: Daily Scrum toplantılarının zamansal sebeplerden ötürü Vatsapp üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır: 
+- ![29 04  2022 toplantı](https://user-images.githubusercontent.com/89348800/167632688-5b1927ac-cf28-454d-a4c2-faf11ebafdde.PNG)
+![WhatsApp Image 2022-05-10 at 15 48 58](https://user-images.githubusercontent.com/89348800/167632695-d0727c5c-5fc9-4460-955f-58d97ec39ee6.jpeg)
+![WhatsApp Image 2022-05-10 at 15 48 58 (1)](https://user-images.githubusercontent.com/89348800/167632696-e538817c-224d-4288-b53f-9b060e294f20.jpeg)
+![WhatsApp Image 2022-05-10 at 15 48 58 (2)](https://user-images.githubusercontent.com/89348800/167632699-e2ddc2e7-cae9-4105-9ea5-0b9474bf5b15.jpeg)
+![WhatsApp Image 2022-05-10 at 15 48 58 (3)](https://user-images.githubusercontent.com/89348800/167632700-15aff2f5-fa57-4b3e-b948-e4d535f2d0a9.jpeg)
+![WhatsApp Image 2022-05-10 at 15 48 58 (4)](https://user-images.githubusercontent.com/89348800/167632702-d6dcc058-c3f7-4f38-932d-971bd2d617f7.jpeg)
+![asdsada](https://user-images.githubusercontent.com/89348800/167632705-955f9d4c-387e-4725-8fa0-86680ba13278.PNG)
+![asdsadadaf](https://user-images.githubusercontent.com/89348800/167632708-b06d87da-e9db-40db-8e3f-d67ec8a79c3c.PNG)
+
 
 - **Sprint board update**: Sprint board screenshotları: ![trello](https://user-images.githubusercontent.com/89348800/167611768-723f1a34-2051-426a-9dfd-d3f73dc6dcff.PNG)
 
