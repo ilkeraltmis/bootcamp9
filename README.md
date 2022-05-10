@@ -59,7 +59,8 @@ Story'ler yapılacak işlere (task'lere) bölünmüştür. Trelloda gözüken ba
 
 - **Daily Scrum**: Daily Scrum toplantılarının zamansal sebeplerden ötürü Vatsapp üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır: [Sprint 1 Daily Scrum Chats]
 
-- **Sprint board update**: Sprint board screenshotları: 
+- **Sprint board update**: Sprint board screenshotları: ![trello](https://user-images.githubusercontent.com/89348800/167611768-723f1a34-2051-426a-9dfd-d3f73dc6dcff.PNG)
+
 
 
 - **Ürün Durumu**: Ekran görüntüleri:
