@@ -89,6 +89,25 @@ Alınan kararlar: Oyunun genel hikayesi ve karakter,background tasarımları dü
 ---
 
 # Sprint 2
+**Sprint Notları** Oyun hikayesi paralelinde karakter ve platformun tasarımlarına başlandı, yazılım kısmı halledildi.
+Karakterlere karar verilerek çalışmalar yapıldı. Oyunun hikayesinin detaylarına girildi ve karakterlerin özel güçleri , oyunun yolculuğu ve karaktere eşkil edecek kişiler/olaylar netleştirildi. Verilen hikaye kararları doğrultusunda envanter tasarımlarına başlandı, hikaye yolculuğunda geçilecek platformların backround tasarımları yapıldı. Karakterin hareketleriyle ilgili yazılım tarafında kodlar yazıldı. 
+
+**Sprint içinde tamamlanması tahmin edilen puan**: 100 Puan
+
+
+- **Puan tamamlama mantığı**: Toplamda proje boyunca tamamlanması gereken 380 puanlık backlog bulunmaktadır. 3 sprint'e bölündüğünde ilk sprint'in en azından 100 ile başlaması gerektiğine karar verildi.
+
+
+- **Backlog düzeni ve Story seçimleri**: Story'ler yapılacak işlere (task'lere) bölünmüştür. Yapılanlar, yapılacaklar ve yapılma aşamasında olanlar başlıklarda belirtilmiştir. 
+- https://trello.com/b/VXBALdxs/bootcamp
+
+ Daily Scrum: Daily Scrum toplantılarının zamansal sebeplerden ötürü whatsapp üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği jpeg olarak Readme'de tarafımızdan paylaşılmaktadır: Sprint 2 Daily Scrum Chats
+ 
+ Ürün Durumu: Karakter görüntüleri : 
+ 
+ Karakter çalışmaları : 
+
+
 
 
 ---
