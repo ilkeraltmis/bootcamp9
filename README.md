@@ -103,10 +103,20 @@ Karakterlere karar verilerek çalışmalar yapıldı. Oyunun hikayesinin detayla
 
  Daily Scrum: Daily Scrum toplantılarının zamansal sebeplerden ötürü whatsapp üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği jpeg olarak Readme'de tarafımızdan paylaşılmaktadır: Sprint 2 Daily Scrum Chats
  
- Ürün Durumu: Karakter görüntüleri : 
+ Ürün Durumu: Karakter görüntüleri ve Karakter çalışmaları  : 
  
- Karakter çalışmaları : 
+ 
+![character_tasarimi](https://user-images.githubusercontent.com/89348800/169857981-59103572-ecaf-4151-976b-f8bc6b86e0dd.jpg)
+![IMG_5248](https://user-images.githubusercontent.com/89348800/169857992-d028436c-bfbd-419a-b44b-52c34d0dd95a.PNG)
+![IMG_5247](https://user-images.githubusercontent.com/89348800/169857993-bc643c35-be4f-46f2-b638-5eb9e33cf5d7.PNG)
+![hikaye_calismasi](https://user-images.githubusercontent.com/89348800/169857996-8fc7bb3e-b1e8-4a5f-ab90-b53af75a1f1b.jpg)
 
+Sprint Review: Alınan kararlar: Hikaye akışında bazı değişiklikler yapılabilir, tasarımsal geliştirmeler bootcamp den sonra da devam edebilir. Şimdilik belli kısımları oyunlaştırmaya açacağız.
+
+Sprint Retrospective:
+
+Takım içindeki görev dağılımıyla ilgili düzenleme yapılması kararı alınmıştır.
+Önceki sprintteki puanımıızın kırılması sebepleri çalışılacak ve bu konuda iyileştirmeler yapılacak. 
 
 
 
